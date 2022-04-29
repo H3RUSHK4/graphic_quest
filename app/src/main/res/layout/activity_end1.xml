@@ -28,18 +28,18 @@
 
     <TextView
         android:id="@+id/textView23"
-        android:layout_width="392dp"
-        android:layout_height="277dp"
+        android:layout_width="362dp"
+        android:layout_height="266dp"
         android:background="#5B7D817F"
         android:fontFamily="@font/warnockprosubh"
         android:text="      Облив приготовленной вами смесью корни больного Древа, оно вдруг засияло тем самым тёплым светом, что вы видели в синем лесу. Вокруг появилось много магических летающих шаров, что осветило территорию вокруг. Вода, что лилась смиренным потоком из ствола вдруг зашумела и превратилась в настоящий водопад. Поздравляем, вы спасли волшебный лес и его жителей!"
         android:textColor="#000000"
-        android:textSize="24sp"
+        android:textSize="21sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintHorizontal_bias="0.673"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.964" />
+        app:layout_constraintVertical_bias="0.965" />
 </androidx.constraintlayout.widget.ConstraintLayout>

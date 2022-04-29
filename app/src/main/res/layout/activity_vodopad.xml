@@ -29,8 +29,8 @@
 
     <TextView
         android:id="@+id/textView19"
-        android:layout_width="394dp"
-        android:layout_height="248dp"
+        android:layout_width="371dp"
+        android:layout_height="245dp"
         android:background="#31C6F176"
         android:fontFamily="@font/warnockprosubh"
         android:text="      Вы проходите вглубь и как только ваши глаза адаптировались к тёмному освещению пещеры видите огромных размеров ствол Великого Древа и воду, льющуюся откуда-то из недр ствола.\n        Цвет воды и корней очень болезненный. Настало время применить приготовленный вами целебный элексир…"
@@ -39,8 +39,8 @@
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintHorizontal_bias="0.6"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.031" />
+        app:layout_constraintVertical_bias="0.032" />
 </androidx.constraintlayout.widget.ConstraintLayout>
