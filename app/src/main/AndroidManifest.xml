@@ -9,6 +9,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Material3.Dark.NoActionBar">
+        <service android:name=".Musik"
+            android:enabled="true"></service>
         <activity
             android:name=".reiting"
             android:exported="false" />

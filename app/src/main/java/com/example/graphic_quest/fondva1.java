@@ -10,9 +10,11 @@ public class fondva1 extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_fondva1);
     }
+
     public void btnNext(View v){
         Intent intent = new Intent(this, les.class);
         startActivity(intent);
