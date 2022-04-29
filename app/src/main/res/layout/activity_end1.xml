@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/end1"
+    tools:context=".end1">
+
+    <Button
+        android:id="@+id/btnNext2"
+        android:layout_width="140dp"
+        android:layout_height="74dp"
+        android:fontFamily="@font/warnockprosubh"
+        android:onClick="btnend1"
+        android:text="Ура!"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:backgroundTint="#92B68D8D"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.963"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.538" />
+
+    <TextView
+        android:id="@+id/textView23"
+        android:layout_width="392dp"
+        android:layout_height="277dp"
+        android:background="#5B7D817F"
+        android:fontFamily="@font/warnockprosubh"
+        android:text="      Облив приготовленной вами смесью корни больного Древа, оно вдруг засияло тем самым тёплым светом, что вы видели в синем лесу. Вокруг появилось много магических летающих шаров, что осветило территорию вокруг. Вода, что лилась смиренным потоком из ствола вдруг зашумела и превратилась в настоящий водопад. Поздравляем, вы спасли волшебный лес и его жителей!"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.473"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.964" />
+</androidx.constraintlayout.widget.ConstraintLayout>

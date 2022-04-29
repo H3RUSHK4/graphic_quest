@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_elecsir.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_end1.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_fondva1.xml" value="0.1793478260869565" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_idem1.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_idem2.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_les.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_fio.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_mish.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_mish_payk.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_payk.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_payk_mish.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_red.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashli_vse_predmeti.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashlifioired.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_nashlirediifio.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_onli_fio.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_only_red.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_perlesvod.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_podobralisferu.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_previewdialog.xml" value="0.2" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_reiting.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_vnut1.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_vnut2.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_vodopad.xml" value="0.264" />
+        <entry key="..\:/graphic_quest/app/src/main/res/layout/activity_vse_nashli.xml" value="0.26358695652173914" />
+        <entry key="..\:/graphic_quest/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.290625" />
+        <entry key="..\:/graphic_quest/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.290625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

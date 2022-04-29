@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/vodopad"
+    tools:context=".vodopad">
+
+    <Button
+        android:id="@+id/btnpodborsferi3"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="272dp"
+        android:layout_height="80dp"
+        android:fontFamily="@font/warnockprosubh"
+        android:onClick="btnvodap"
+        android:text="Достать целебный элексир"
+        android:textColor="#000000"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        app:backgroundTint="#45C6F176"
+        app:cornerRadius="25dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.975" />
+
+    <TextView
+        android:id="@+id/textView19"
+        android:layout_width="394dp"
+        android:layout_height="248dp"
+        android:background="#31C6F176"
+        android:fontFamily="@font/warnockprosubh"
+        android:text="      Вы проходите вглубь и как только ваши глаза адаптировались к тёмному освещению пещеры видите огромных размеров ствол Великого Древа и воду, льющуюся откуда-то из недр ствола.\n        Цвет воды и корней очень болезненный. Настало время применить приготовленный вами целебный элексир…"
+        android:textColor="#000000"
+        android:textSize="24sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.47"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.031" />
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.graphic_quest">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Графический квест"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Material3.Dark.NoActionBar">
+        <activity
+            android:name=".reiting"
+            android:exported="false" />
+        <activity
+            android:name=".end1"
+            android:exported="false" />
+        <activity
+            android:name=".elecsir"
+            android:exported="false" />
+        <activity
+            android:name=".vodopad"
+            android:exported="false" />
+        <activity
+            android:name=".podobralisferu"
+            android:exported="false" />
+        <activity
+            android:name=".idem2"
+            android:exported="false" />
+        <activity
+            android:name=".idem1"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_mish_payk"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_payk_mish"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_payk"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_mish"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_vse_predmeti"
+            android:exported="false" />
+        <activity
+            android:name=".nashlirediifio"
+            android:exported="false" />
+        <activity
+            android:name=".nashlifioired"
+            android:exported="false" />
+        <activity
+            android:name=".onli_fio"
+            android:exported="false" />
+        <activity
+            android:name=".only_red"
+            android:exported="false" />
+        <activity
+            android:name=".vse_nashli"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_fio"
+            android:exported="false" />
+        <activity
+            android:name=".nashli_red"
+            android:exported="false" />
+        <activity
+            android:name=".previewdialog"
+            android:exported="false" />
+        <activity
+            android:name=".vnut2"
+            android:exported="false" />
+        <activity
+            android:name=".vnut1"
+            android:exported="false" />
+        <activity
+            android:name=".perlesvod"
+            android:exported="false" />
+        <activity
+            android:name=".fondva1"
+            android:exported="false" />
+        <activity
+            android:name=".les"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
