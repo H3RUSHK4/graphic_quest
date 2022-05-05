@@ -14,17 +14,16 @@
         android:layout_height="174dp"
         android:background="#9CD696CF"
         android:fontFamily="@font/warnockprosubh"
-        android:textStyle="bold"
         android:text="Графический Квест"
         android:textColor="#000000"
         android:textSize="34sp"
+        android:textStyle="bold"
         app:cornerRadius="25dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.538"
-        />
+        app:layout_constraintVertical_bias="0.538" />
 
     <Button
         android:id="@+id/btnStart"

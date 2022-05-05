@@ -25,11 +25,11 @@
 
     <TextView
         android:id="@+id/textView18"
-        android:layout_width="340dp"
-        android:layout_height="221dp"
-        android:background="#31C6F176"
+        android:layout_width="336dp"
+        android:layout_height="175dp"
+        android:background="#59C6F176"
         android:fontFamily="@font/warnockprosubh"
-        android:text="      Пройдя ещё немного вглубь синего леса, вы замечаете на своём пути освещающие путь фонарики и сферу светящие тёпло-жёлтым светом, вглядываясь в них, вам становится очень спокойно на душе, вы знаете, что всё будет хорошо… В конце дорожки светит яркое солнце…"
+        android:text="Пройдя ещё немного вглубь синего леса, вы замечаете на своём пути освещающие путь фонарики и сферу светящие тёпло-жёлтым светом, вглядываясь в них, вам становится очень спокойно на душе, вы знаете, что всё будет хорошо… В конце дорожки светит яркое солнце…"
         android:textColor="#000000"
         android:textSize="21sp"
         android:textStyle="bold"

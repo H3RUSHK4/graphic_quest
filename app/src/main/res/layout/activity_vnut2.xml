@@ -9,9 +9,9 @@
 
     <TextView
         android:id="@+id/textView2"
-        android:layout_width="288dp"
-        android:layout_height="79dp"
-        android:background="#31C6F176"
+        android:layout_width="296dp"
+        android:layout_height="48dp"
+        android:background="#51C6F176"
         android:fontFamily="@font/warnockprosubh"
         android:text="Найдите необходимые предметы для элексира: паук и мышь."
         android:textColor="#000000"
